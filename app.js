@@ -16,4 +16,3 @@ carrinho.calculaSubtotal();
 carrinho.finalizaCompra();
 
 console.log(carrinho);
-console.log(carrinho);
